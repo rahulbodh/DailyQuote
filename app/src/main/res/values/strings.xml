@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DailyQuotes</string>
+    <string name="welcome_to_the_daily_quotes">Welcome to the Daily Quotes</string>
+    <string name="like">like</string>
+    <string name="shere">Shere</string>
+    <string name="refresh_page">Refresh Page</string>
+    <string name="click_me">Click me</string>
+    <string name="my_favorite_quotes">My favorite quotes</string>
+    <string name="home">Home</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="exit">exit</string>
+    <string name="favorite">Favorite</string>
+</resources>
